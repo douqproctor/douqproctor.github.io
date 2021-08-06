@@ -6,7 +6,7 @@ permalink: /event/
 
 <div id="event-page-text">
 
-<p><u>What:</u> We already have our wedding bling and a year of marriage under our belts, so this event will not be your traditional wedding. Instead, this celebration will be a chance to raise our glasses with our closest friends and family to celebrate our union. We'll kick off the night with a renewal of vows, followed by cocktails, a sitdown dinner banquet and an after-dinner stroll through the 3 million+ lights that the Gardens hang each winter (though this year, we like to think it's just for us). After dinner, we'll head over to the nearby White family residence for an afterparty. We look forward to seeing you there!</p>
+<p><u>What:</u> We already have our wedding bling and a year of marriage under our belts, so this event will not be your traditional wedding. Instead, this celebration will be a chance to raise our glasses with our closest friends and family to celebrate our union. We'll kick off the night with a renewal of vows, followed by cocktails, a sitdown dinner banquet and an after-dinner stroll through the 3 million+ lights that the Gardens hangs each winter (though this year, we like to think it's just for us). After dinner, we'll head over to the nearby White family residence for an afterparty. We look forward to seeing you there!</p>
 
 <p><u>Date & Time:</u> Saturday, December 4th 2021 -- 5:30pm MT </p>
 
@@ -21,7 +21,7 @@ permalink: /event/
 
  <p><u> COVID Safety:</u> In order to keep all of our guests safe, we will require that every guest be vaccinated. Please get in touch if you have any extenuating circumstances. </p>
 
-<p><u> What to do in Denver:</u> If you have extra time during your stay, we recommend checking out the Clyfford Still Museum (Katie and Doug's favorite art museum in Denver), take a walk around Cheesman or Washington Park (weather permitting), and snag a breakfast burrito at Onefold (also great for lunch!). </p>
+<p><u> What to do in Denver:</u> If you have extra time during your stay, we recommend checking out the Clyfford Still Museum (Katie and Doug's favorite art museum in Denver), taking a walk around Cheesman or Washington Park (weather permitting), and grabbing a breakfast burrito at Onefold (also great for lunch!). </p>
 
 <p><u> Friday & Sunday:</u> We'll be organizing laid back welcome drinks Friday evening and a farewell breakfast on Sunday for anyone in town. Details to follow.
 <br> </p>
