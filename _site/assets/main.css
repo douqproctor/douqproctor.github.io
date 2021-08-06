@@ -514,16 +514,24 @@ table {
   font-weight: bold; }
 
 .black-text {
-  color: #000000; }
+  color: #000000;
+  font-weight: lighter; }
 
 .blue-text {
   color: #2173FB; }
+
+.emerald-text {
+  color: #04C446;
+  font-weight: bold; }
 
 .green-text {
   color: #014317; }
 
 .big-text {
   font-size: 20px; }
+
+.medium-text {
+  font-size: 15px; }
 
 .page-borders-thick #main-nav ul > li > a {
   border-bottom-width: 2px; }
@@ -640,7 +648,12 @@ div {
   position: relative;
   padding: 10px;
   margin: auto;
-  font-weight: bold;
+  color: #000000; }
+
+#event-page-text {
+  positon: relative;
+  padding: 10px;
+  margin: auto;
   color: #000000; }
 
 .divider {
@@ -779,7 +792,8 @@ div {
   margin: 40px; }
 
 .content-wrapper a {
-  color: #c8c8c8; }
+  color: 675;
+  font-weight: bold; }
 
 .content-wrapper iframe {
   margin: 20px 0;
@@ -925,5 +939,5 @@ div {
 .photo-creds {
   text-align: center;
   font-style: italic;
-  color: #c8c8c8;
+  color: 675;
   font-size: 15px; }

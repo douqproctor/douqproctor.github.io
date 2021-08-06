@@ -8,11 +8,9 @@ permalink: /photos/
 
 <div style="text-align: center">
 
-  <p class="blue-text big-text"> Photos from our June 20, 2020 wedding </p>
+  <p class="black-text"> Photos from our wedding on June 20th 2020 </p>
 
 </div>
-
-<p class="photo-creds"> <a href="https://www.jamesandschulze.com/info">Photos by Otto Schulze of James and Schulze.</a></p>
 
 <div class="row">
   <div class="column">
@@ -91,6 +89,7 @@ permalink: /photos/
     <img src="{{ "/assets/img/02_Katie_DougWedding.jpg" | relative_url }}">
     <img src="{{ "/assets/img/86_Katie_DougWedding.jpg" | relative_url }}">
 
-
   </div>
 </div>
+
+<p class="photo-creds"> <a href="https://www.jamesandschulze.com/info">Photos by Otto Schulze of James and Schulze.</a></p>

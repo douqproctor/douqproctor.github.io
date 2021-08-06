@@ -10,14 +10,16 @@ $color-black-transparent: #0000001c;
 $color-black: #000000;
 $color-forest-green: #014317;
 $color-forest-green-transparent: #014317bd;
+$color-emerald-kaite: #04C446;
 $color-forest-green-very-transparent: #01431710;
 $color-notice-blue: #2173FB;
+$color-dark-blue: 000675;
 
 $text-color: $color-black;
 $title-color: $color-black;
 $canvas-background-color: $color-white;
 $border-color: $color-white;
-$link-color: $color-dark-gray;
+$link-color: $color-dark-blue;
 $body-background: $color-white;
 $footer-font-color: $color-black;
 
@@ -33,10 +35,16 @@ $footer-font-color: $color-black;
 
 .black-text {
   color: $color-black;
+  font-weight: lighter;
 }
 
 .blue-text {
   color: $color-notice-blue;
+}
+
+.emerald-text {
+ color: $color-emerald-kaite;
+ font-weight: bold;
 }
 
 .green-text {
@@ -45,6 +53,10 @@ $footer-font-color: $color-black;
 
 .big-text {
   font-size: 20px;
+}
+
+.medium-text{
+  font-size: 15px;
 }
 
 .page-borders-thick #main-nav ul>li>a {
@@ -184,8 +196,14 @@ div {
   position: relative;
   padding: 10px;
   margin: auto;
-  font-weight: bold;
   color:  $color-black;
+}
+
+#event-page-text {
+  positon: relative;
+  padding: 10px;
+  margin: auto;
+  color: $color-black;
 }
 
 .divider {
@@ -368,6 +386,7 @@ div {
 
 .content-wrapper a {
   color: $link-color;
+  font-weight: bold;
 }
 
 .content-wrapper iframe {
@@ -533,6 +552,6 @@ div {
 .photo-creds {
   text-align: center;
   font-style:italic;
-  color: $color-dark-gray;
+  color: $color-dark-blue;
   font-size: 15px;
 }
