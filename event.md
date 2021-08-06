@@ -8,7 +8,7 @@ permalink: /event/
 
 <p><u>What:</u> We already have our wedding bling and a year of marriage under our belts, so this event will not be your traditional wedding. Instead, this celebration will be a chance to raise our glasses with our closest friends and family to celebrate our union. We'll kick off the night with a renewal of vows, followed by cocktails, a sitdown dinner banquet and an after-dinner stroll through the 3 million+ lights that the Gardens hang each winter (though this year, we like to think it's just for us). After dinner, we'll head over to the nearby White family residence for an afterparty. We look forward to seeing you there!</p>
 
-<p><u>Date & Time:</u> Saturday, December 4th 2021 -- 5pm </p>
+<p><u>Date & Time:</u> Saturday, December 4th 2021 -- 5:30pm MT </p>
 
 <p><u>Location:</u> Denver Botanic Gardens (1007 York Street Denver, CO 80206) </p>
 
